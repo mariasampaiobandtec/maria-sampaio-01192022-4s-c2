@@ -37,8 +37,7 @@ class Tela2 : AppCompatActivity() {
             }
 
             override fun onFailure(call: Call<Cachorro>, t: Throwable) {
-                Toast.makeText(baseContext, "Erro na chamada: ${t.message!!}", Toast.LENGTH_SHORT)
-                    .show()
+                Toast.makeText(baseContext, "Erro na chamada: ${t.message!!}", Toast.LENGTH_SHORT).show()
             }
 
         })
