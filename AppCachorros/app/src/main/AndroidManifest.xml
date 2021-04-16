@@ -13,7 +13,7 @@
         android:theme="@style/Theme.AppCachorros">
         <activity android:name=".Tela3"></activity>
         <activity android:name=".Tela2" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Principal">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

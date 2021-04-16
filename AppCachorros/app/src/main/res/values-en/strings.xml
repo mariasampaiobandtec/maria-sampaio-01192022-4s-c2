@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Cachorros</string>
+    <string name="botao_cadastrar"></string>
+    <string name="botao_listar"></string>
+
+
+</resources>

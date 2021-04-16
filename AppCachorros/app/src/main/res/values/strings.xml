@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">App Cachorros</string>
+    <string name="botao_cadastrar">Cadastrar Cachorro</string>
+    <string name="botao_listar">Listar Cachorros</string>
+
+
 </resources>

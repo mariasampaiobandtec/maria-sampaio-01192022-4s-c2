@@ -17,12 +17,9 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/et_indicador1"
             android:text="Cachorros indicados para crianças: " />
 
-        <EditText
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="X" />
 
     </LinearLayout>
 
@@ -35,12 +32,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/et_indicador2"
             android:text="Cachorros não indicados para crianças: " />
 
-        <EditText
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Y" />
+
 
     </LinearLayout>
 
@@ -53,12 +48,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Total de Cachorros" />
+            android:id="@+id/et_total"
+            android:text="Total de Cachorros:" />
 
-        <EditText
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Z" />
+
 
     </LinearLayout>
 
